@@ -11,8 +11,9 @@ Pococha用BGM再生アプリ
 ・動画再生時は録音したサウンド停止
 
 ### ●Youtube再生機能の設定方法
-設定画面のPlayList設定で『PL....』のPlaylistIDを設定することで、事前にYoutubeで作成したPlaylistを元に再生することが可能
-動画内をタップすることで以下のYoutubeの機能を使用することができる
+設定画面のPlayList設定で『PL....』のPlaylistIDを設定することで、事前にYoutubeで作成したPlaylistを元に再生することが可能。
+
+動画内をタップすることで以下のYoutubeの機能を使用することができる。
 
 ・PictureInPictureでの動画再生に切り替えることでアプリを切り替えても再生し続けることが可能
 
