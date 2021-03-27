@@ -2,11 +2,7 @@
 Pococha用BGM再生アプリ
 
 
-![PocoSoundImg1](https://user-images.githubusercontent.com/20402703/112709256-19758600-8efb-11eb-8f1a-67c267b3ea58.PNG)
-
-![PocoSoundImg2](https://user-images.githubusercontent.com/20402703/112709257-1bd7e000-8efb-11eb-89b9-d83befecf2f3.PNG)
-
-![PocoSoundImg3](https://user-images.githubusercontent.com/20402703/112709260-1e3a3a00-8efb-11eb-9ffc-633fe875f352.PNG)
+![PocoSoundImg](https://user-images.githubusercontent.com/20402703/112709367-44aca500-8efc-11eb-9d85-6a866541557b.PNG)
 
 
 
