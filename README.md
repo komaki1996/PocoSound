@@ -1,9 +1,7 @@
 # PocoSound
 Pococha用BGM再生アプリ
 
-
-![PocoSoundImg](https://user-images.githubusercontent.com/20402703/112709367-44aca500-8efc-11eb-9d85-6a866541557b.PNG)
-
+![PocoSoundImg](https://user-images.githubusercontent.com/20402703/112709961-fbab1f80-8f00-11eb-97b1-de4784ba65dc.PNG)
 
 
 ### ●機能
