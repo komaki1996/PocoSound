@@ -15,7 +15,7 @@
 
 
 ### ●Youtube再生機能の設定方法
-設定画面のPlayList設定で『PL....』のPlaylistIDを設定することで、事前にYoutubeで作成したPlaylistを元に再生することが可能。
+設定画面のPlayList設定で『PL....』のPlaylistID 又は PlaylistURLを設定することで、事前にYoutubeで作成したPlaylistを元に再生することが可能。
 
 動画内をタップすることで以下のYoutubeの機能を使用することができる。
 
