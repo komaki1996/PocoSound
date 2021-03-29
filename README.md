@@ -1,7 +1,8 @@
 # PocoSound
 ## Live配信ライバーBGM&サウンド再生アプリ
 
-![PocoSoundImg](https://user-images.githubusercontent.com/20402703/112710451-b4bf2900-8f04-11eb-9655-3bb54455402c.PNG)
+![PocoSoundImg](https://user-images.githubusercontent.com/20402703/112871707-7db26880-90fa-11eb-8635-3e7fd3d288bd.PNG)
+
 
 
 ### ●機能
